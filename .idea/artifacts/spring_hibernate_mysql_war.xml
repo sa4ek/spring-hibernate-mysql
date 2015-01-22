@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-hibernate-mysql:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-hibernate-mysql.war">
+      <element id="artifact" artifact-name="spring-hibernate-mysql:war exploded" />
+    </root>
+  </artifact>
+</component>
